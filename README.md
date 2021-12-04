@@ -1,1 +1,53 @@
-# Array-loop
+# Print Numbers from N to 1
+You are given a number N. Create a JS function that loops through all the numbers from N to 1 and prints them in an array. N will always be positive.
+<br>
+Examples:
+<br>
+<table>
+<thead>
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+    <th></th>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>5</td>
+    <td>5</td>
+    <td></td>
+    <td>2</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>4</td>
+    <td></td>
+    <td></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>3</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
