@@ -1,5 +1,5 @@
 # Print Numbers from N to 1
-You are given a number N. Create a JS function that loops through all the numbers from N to 1 and prints them in an array. N will always be positive.
+You are given a number N. Create a JS function that loops through all the numbers from N to 1 and prints them in array. N will always be positive.
 <br>
 Examples:
 <br>
